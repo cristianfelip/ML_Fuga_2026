@@ -1,4 +1,4 @@
-1. Descripción del proyecto
+1. Descripción del proyecto (Customer Churn Prediction)
 
 Este proyecto desarrolla un modelo de Machine Learning supervisado para predecir la fuga de clientes (Customer Churn), es decir, identificar qué clientes tienen alta probabilidad de cancelar un servicio, dejar de comprar o abandonar la relación comercial con una empresa.
 
