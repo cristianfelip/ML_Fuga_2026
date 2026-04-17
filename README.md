@@ -45,18 +45,12 @@ Soporte o interacción con la empresa.
 Estado final del cliente (fuga / no fuga).
 Variable objetivo
 Churn: indica si el cliente abandonó el servicio.
-Ejemplo de variables predictoras
-tenure
-MonthlyCharges
-TotalCharges
-Contract
-PaymentMethod
-InternetService
-SeniorCitizen
-Partner
-Dependents
+variables predictoras del dataset:
 
-Nota: Los nombres exactos de las variables pueden variar según el dataset utilizado.
+PORC_CUOTAS_PAGADAS     0.769378
+SALDO_CAPITAL           0.180433
+MORA                    0.023501
+TASA                    0.015737
 
 5. Flujo metodológico
 
@@ -93,8 +87,7 @@ Selección de variables relevantes.
 
 Se pueden evaluar varios algoritmos, por ejemplo:
 
-Regresión Logística
-Árbol de Decisión
+DecisionTreeClassifier
 Random Forest
 XGBoost / Gradient Boosting
 Support Vector Machine (SVM)
@@ -109,6 +102,7 @@ Recall
 F1-Score
 ROC-AUC
 Matriz de confusión
+
 5.7. Interpretación
 Importancia de variables.
 Explicación del comportamiento del modelo.
