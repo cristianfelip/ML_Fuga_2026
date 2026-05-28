@@ -13,8 +13,8 @@ El fin principal es predecir la pérdida de clientes.
 
 ## 📈 Resultados del Modelo
 El modelo final (basado en XGBoost) alcanzó las siguientes métricas en el conjunto de prueba:
-* **Accuracy:** 86%
-* **AUC-ROC:** 0.869
+* **F1-socre:** 68%
+* **AUC-ROC:** 0.86
 * **Recall (Fuga):** 82% (Priorizado para capturar la mayor cantidad de abandonos reales).
 
 
