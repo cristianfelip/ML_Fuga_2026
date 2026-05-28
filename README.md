@@ -19,5 +19,5 @@ El modelo final (basado en DecisionTreeClassifier) alcanzó las siguientes métr
 
 
 ##  Autor
-* **Tu Nombre** - [cristianfelip](https://github.com/cristianfelip/) - [LinkedIn](www.linkedin.com/in/christian-felipe-c-b00a08170)
+* **** - [cristianfelip](https://github.com/cristianfelip/) - [LinkedIn](www.linkedin.com/in/christian-felipe-c-b00a08170)
   
