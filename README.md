@@ -7,12 +7,12 @@ El fin principal es predecir la pérdida de clientes.
 
 ##  Tecnologías Utilizadas
 * **Lenguaje:** Python 3.10+
-* **Librerías principales:** Pandas, NumPy, Scikit-Learn, TreeRegressionClassifier, Matplotlib, Seaborn.
+* **Librerías principales:** Pandas, NumPy, Scikit-Learn, DecisionTreeClassifier, Matplotlib, Seaborn.
 * **Entorno:** Jupyter Notebook .
 
 
 ##  Resultados del Modelo
-El modelo final (basado en XGBoost) alcanzó las siguientes métricas en el conjunto de prueba:
+El modelo final (basado en DecisionTreeClassifier) alcanzó las siguientes métricas en el conjunto de prueba:
 * **F1-socre:** 68%
 * **AUC-ROC:** 0.86
 * **Recall (Fuga):** 67% (Priorizado para capturar la mayor cantidad de abandonos reales).
