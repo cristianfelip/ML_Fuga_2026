@@ -11,13 +11,13 @@ El fin principal es predecir la pérdida de clientes.
 * **Entorno:** Jupyter Notebook .
 
 
-## 📈 Resultados del Modelo
+##  Resultados del Modelo
 El modelo final (basado en XGBoost) alcanzó las siguientes métricas en el conjunto de prueba:
 * **F1-socre:** 68%
 * **AUC-ROC:** 0.86
-* **Recall (Fuga):** 82% (Priorizado para capturar la mayor cantidad de abandonos reales).
+* **Recall (Fuga):** 67% (Priorizado para capturar la mayor cantidad de abandonos reales).
 
 
-## ✒️ Autor
+##  Autor
 * **Tu Nombre** - [Tu GitHub](cristianfelip) - [Tu LinkedIn](www.linkedin.com/in/christian-felipe-c-b00a08170)
   
